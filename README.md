@@ -6,9 +6,8 @@ See your computer stats with good looking app. (Just kidding that app is trash)
 - Shows RAM usage with "%" and progress bar.
 
 ## TO-DO
-
-[ ] Make it responsive.
-[ ] Better setup maybe ?
-[ ] Add computer uptime.
-[ ] Add computer temperature. (if its possible)
-[ ] Add boost thing. (if i can lol)
+- [ ] Make it responsive.
+- [ ] Better setup maybe ?
+- [ ] Add computer uptime.
+- [ ] Add computer temperature. (if its possible)
+- [ ] Add boost thing. (if i can lol)
